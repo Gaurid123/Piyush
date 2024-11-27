@@ -10,7 +10,7 @@ public class NewconfigeClient2Application {
 	public static void main(String[] args)
 	{
 		System.out.println("This is client");
-		System.out.println("This is client111");
+		System.out.println("This is client222");
 		SpringApplication.run(NewconfigeClient2Application.class, args);
 	}
 
